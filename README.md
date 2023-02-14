@@ -1,5 +1,5 @@
 # Hi there,I'm Thomas! 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaskovoor&border_color=9400D3&card_width=400&theme=midnight-purple&border_radius=20&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thomaskovoor/thomaskovoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
