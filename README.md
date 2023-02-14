@@ -3,3 +3,10 @@
 
 ## 🖥️ Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,php,mysql,mongodb,aws,git,linux,latex,vscode,idea,figma,github,devto,solidity,flask&perline=5)](https://skillicons.dev)
+
+<a href="https://app.daily.dev/Thomas_000"><img align="middle" src="https://api.daily.dev/devcards/b9485ae9dcd244a5a11b986ad1c22a53.png?r=pr4" width="200" alt="Thomas Kovoor's Dev Card" /></a>
+
+
+
+## Hackoberfest Journey
+[![An image of @thomaskovoor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thomaskovoor)](https://holopin.io/@thomaskovoor)
