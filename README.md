@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi, I'm Thomas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
-        src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" height=450/>
+        src="developer.gif" height=450/>
     <br/><br/>
 
 
