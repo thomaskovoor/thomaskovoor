@@ -1,11 +1,11 @@
-<div style="width:100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width:80%;" align="center">
+  <img src="hello.svg" style="width: 80%;" alt="Click to see the source">
 </div>
 
 
 <div align="center">
     <img alt="Developer Pic"
-        src="developer.gif" height=500/>
+        src="developer.gif" height=400/>
     <br/><br/>
      <p>🙏🏻 Welcome to my Github profile !<br />
         I am a <b>Developer</b> from <b>Kerala, India</b> 🇮🇳.
